@@ -154,6 +154,4 @@ GitHub: [@harsh-thakur-rajput](https://github.com/harsh-thakur-rajput)
 
 ## 📚 References
 
-- Devlin et al. (2018) — [BERT: Pre-training of Deep Bidirectional Transformers](https://arxiv.org/abs/1810.04805)
-- HuggingFace Transformers — https://huggingface.co/transformers
 - Dataset — [Clément Bisaillon on Kaggle](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
